@@ -604,6 +604,7 @@ button.container__button--view-docs span {
     transition: all 0.2s linear;
     display: inline-flex;
     align-items: center;
+    text-decoration: none;
 }
 
 .github-button i {
