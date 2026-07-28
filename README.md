@@ -18,7 +18,7 @@ To view this project locally:
 
 1. Clone the repository:
    ```bash   
-   git clone https://https://jasminelynne01123.github.io/Code-Switcher-Project/
+   git clone https://jasminelynne01123.github.io/Code-Switcher-Project/
 
 
 
